@@ -1,10 +1,14 @@
-<h2 align="center">Hi there, I'm Dmitrii <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22" /></h2>
+<h2 align="center">Hello there, I'm Dmitrii <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22" /></h2>
 <h3 align="center">I'm vue.js developer from Russia 🇷🇺 (Kaliningrad)
 
 ![](https://komarev.com/ghpvc/?username=JustKing)
 
 </h3>
 <hr />
+<h4>Codewars</h4>
+
+[![codewars](https://www.codewars.com/users/JstKing/badges/large)](https://www.codewars.com/users/JstKing)
+
 <h4>Top languages</h4>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JustKing&theme=github_dark)
